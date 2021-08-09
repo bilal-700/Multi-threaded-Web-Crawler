@@ -2,8 +2,8 @@
 To crawl web content using Python
 
 System:
->	Linux-Ubuntu (preferred)
->	Windows
+  Linux-Ubuntu (preferred)
+  Windows
 
 Language:
 •	python3
