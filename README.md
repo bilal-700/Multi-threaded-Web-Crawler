@@ -19,9 +19,10 @@ Windows:
 •	Write: pip install "link of that package"
 
 How to run the code:
-After successfully installing all the libraries, put all files related to the project into one directory. And run using following command:
-USAGE:
+After successfully installing all the libraries, put all files related to the project into one directory. 
+And run using following command:
 > python main.py 
+
 After this command user will enter:
 •	starting_URL: Website URL from where the crawling starts.
 •	directory_name: Folder where queue.txt and crawled.txt will be placed.
