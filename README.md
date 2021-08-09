@@ -1,17 +1,17 @@
 # Multi-threaded-Web-Crawler
 To crawl web content using Python
 
-System:
-  Linux-Ubuntu (preferred)
-  Windows
+# System:
+Linux-Ubuntu (preferred)
+Windows
 
 Language:
 •	python3
 
 For installing Libararies: 
 Linux-Ubuntu: 
-•	sudo apt install python3-pip  (if pip not installed)
-•	python3 -m pip install requests
+sudo apt install python3-pip  (if pip not installed)
+python3 -m pip install requests
 Windows:
 •	Download get-pip.py  (if pip already installed skip to point-4)
 •	cd to the directory form cmd in which get-pip.py is saved.
@@ -19,7 +19,7 @@ Windows:
 •	Write: pip install "link of that package"
 
 How to run the code:
-After successfully installing all the libraries, put all files related to the project into one directory. 
+After successfully installing all the libraries, put all files related to the project into one directory.\n
 And run using following command:
 > python main.py 
 
